@@ -1,11 +1,6 @@
 ## jnode-revisited.github.io
 ![image](https://user-images.githubusercontent.com/111701513/208315742-3beadf88-c239-4e65-a039-9b74e312b80b.png)
 
-## computer architecture
-![image](https://user-images.githubusercontent.com/111701513/208297335-5ff2d8b2-8c48-43e3-be62-4c55226d5e84.png)
-
-**image-description:** As we can see in the image of the architecture, we have 3 different hosting options for each target audience and which have - or may have a traffic limit or not. 
-
 ## Demo
 ![](https://im5.ezgif.com/tmp/ezgif-5-88856fb18d.gif)
 
