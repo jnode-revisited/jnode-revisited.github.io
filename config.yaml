@@ -1,0 +1,24 @@
+baseURL : https://jnode-revisited.dev
+languageCode : en
+title : jnode Revisited
+
+buildFuture : true
+
+params:
+    description: List of applications or use cases in jnode.
+
+staticDir: static
+
+permalinks:
+    blog : blog/:title/
+    stuff : /alternative/:title
+
+summaryLength: 25
+
+outputs:
+    section : ["HTML", "RSS", "JSON"]
+
+taxonomies:
+    category : categories
+    topic : topics
+    tag : tags
