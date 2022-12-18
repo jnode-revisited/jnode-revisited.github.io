@@ -6,16 +6,6 @@
 
 ## Filesystem
 ```
-└─ showcase/ - "hugo"
-│  └── assets/
-│  └── css/
-│  └── js/
-|  └── index.html
-└─ docs/  - "docsify"
-│  └── assets/
-│  └── css/
-│  └── js/
-|  └── index.html
 └─ homepage/ - "only html,css, js"
 │  └── assets/
 │  └── css/
