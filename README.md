@@ -4,10 +4,10 @@
 ## Demo
 ![](https://im5.ezgif.com/tmp/ezgif-5-88856fb18d.gif)
 
-## URL & domains
-- docs: jnode-revisited.vercel.io
-- homepage: jnode-revisited.github.io
-- showcase: jnode-revisited.netlify.com
+## Todo, URL & domains
+- [ ] docs: jnode-revisited.vercel.io *todo*
+- [x] homepage: jnode-revisited.github.io *todo*
+- [ ] showcase: jnode-revisited.netlify.com
 
 ## Filesystem
 ```
