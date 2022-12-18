@@ -1,4 +1,12 @@
 <!-- TODO: Complete with your own sidebar structure and enable sidebar in index.html - or delete this file. -->
+- [Start here!](/#start-here!) 
+- [Documentation](/#documentation) 
+- [Download](/#downloads) 
+- [Contribute](/#contribute) 
+- [Status](/#status) 
+- [Screenshots](/#screenshots) 
+- [Forums](/#forums) 
+- [Contact](/#contact)
 - [Issues](/#issues)
 - [Bugs & feature requests (old)](/#bugs-and-features)
 - [Create content](/#create-content)
