@@ -14,9 +14,9 @@
 ```
 
 ## License
-- demo jnode-revisited-docsify is released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
-- copyright by logo 
-
+- the theme this repository is released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
+- the logo and content this repository have copyright license for community
+- the documentation part is generated and maintained with docsify.
 
 <!---
 
