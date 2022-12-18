@@ -1,10 +1,5 @@
 <!-- TODO: Complete with your own sidebar structure and enable sidebar in index.html - or delete this file. -->
 
-Active forum topics
-Observations on a first time build
-Creation of a Device I/O API in OpenJDK
-How to convert a real mode address to a protected mode address in JNode ?
-
 ## Head menu
 - [Start here!](/#start-here!) 
 - [Documentation](/#documentation) 
