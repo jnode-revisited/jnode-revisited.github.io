@@ -4,11 +4,6 @@
 ## Demo
 ![](https://im5.ezgif.com/tmp/ezgif-5-88856fb18d.gif)
 
-## Todo
-- [ ] add page-docs: docs.jnode-revisited.vercel.io *maybe... todo*
-- [x] add page-homepage: jnode-revisited.github.io *done*
-- [ ] add paage-showcase: showcase.jnode-revisited.netlify.com *maybe... todo*
-
 ## Filesystem
 ```
 └─ showcase/ - "hugo"
