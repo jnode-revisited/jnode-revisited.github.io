@@ -6,7 +6,7 @@
 
 ## Todo
 - [ ] add page-docs: jnode-revisited.vercel.io *todo*
-- [x] add page-homepage: jnode-revisited.github.io *todo*
+- [x] add page-homepage: jnode-revisited.github.io *done*
 - [ ] add paage-showcase: jnode-revisited.netlify.com
 
 ## Filesystem
