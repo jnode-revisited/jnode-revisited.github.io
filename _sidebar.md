@@ -17,6 +17,18 @@
 - [Reports](/#reports)
 - [Recent posts](/#recent-posts)
 
+## JNode uses
+- add img OpenJDK
+- add img GNU Classpath
+
+## Another sidebar
+- I like JNode!
+- Ohloh project report for JNode
+- [Donations](/#donations)
+
+## Login
+- [User login](/#user-login)
+
 ## Active forum topics
 - Observations on a first time build
 - Creation of a Device I/O API in OpenJDK
@@ -34,3 +46,9 @@
 - Me 3
 - Me again
 - More
+
+## Warning
+- Copyright (c) JNode.org 2013	
+- This page is optimized for Mozilla Firefox
+
+
