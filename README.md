@@ -5,6 +5,7 @@
 </p>
 
 
+<!---- 
 # Documentation Jnode with Docsify.js
 > Starter template for a Markdown-based docs site
 
@@ -236,6 +237,8 @@ A template for a Vue-based app.
 
 - [![MichaelCurrin - vue-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vue-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vue-quickstart)
 
+--->
 
 ## License
-Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
+- demo jnode-revisited-docsify is released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
+- copyright by logo 
