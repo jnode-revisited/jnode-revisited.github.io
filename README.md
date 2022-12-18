@@ -4,6 +4,15 @@
   <img src="https://avatars.githubusercontent.com/u/102882063?s=200&v=4" alt="Logo Jnode"/>
 </p>
 
+## Filesystem
+```
+└─ docs/  - "docsify"
+│  └── assets/
+│  └── css/
+│  └── js/
+|  └── index.html
+```
+
 ## License
 - demo jnode-revisited-docsify is released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
 - copyright by logo 
