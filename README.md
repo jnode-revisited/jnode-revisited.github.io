@@ -3,7 +3,7 @@
 
 ## URL & domains
 - docs: jnode-revisited.vercel.io
-- homepage: jnode-revisited.github.io/
+- homepage: jnode-revisited.github.io
 - showcase: jnode-revisited.netlify.com
 
 ## Filesystem
