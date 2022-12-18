@@ -1,4 +1,4 @@
-# jnode-revisited.github.io
+# Golang, Hug, Netlify and Jnode Revisited
 
 ## Filesystem
 ```
