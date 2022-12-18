@@ -4,20 +4,28 @@
   <img src="https://avatars.githubusercontent.com/u/102882063?s=200&v=4" alt="Logo Jnode"/>
 </p>
 
+## License
+- demo jnode-revisited-docsify is released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
+- copyright by logo 
 
-<!---- 
+
+<!---
+
+{% comment %} 
+    These commments will not include inside the source.
+{% endcomment %}
 
 # Documentation Jnode with Docsify.js
 > Starter template for a Markdown-based docs site
 
- <!-- TODO: Update repo links and change license type if needed. -->
+!-- TODO: Update repo links and change license type if needed. --
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template.svg)](https://GitHub.com/MichaelCurrin/docsify-js-template/tags/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MichaelCurrin/docsify-js-template/blob/master/README#license)
 
 [![Made with latest Docsify](https://img.shields.io/npm/v/docsify/latest?label=docsify)](https://docsify.js.org/)
 
 
-<!-- TODO: You can delete the About and Create a Docsify site sections if you create a new project from this template -->
+!-- TODO: You can delete the About and Create a Docsify site sections if you create a new project from this template --
 
 ## About
 
@@ -238,8 +246,6 @@ A template for a Vue-based app.
 
 - [![MichaelCurrin - vue-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vue-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vue-quickstart)
 
---->
+--- 
 
-## License
-- demo jnode-revisited-docsify is released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
-- copyright by logo 
+-->
