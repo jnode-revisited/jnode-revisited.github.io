@@ -1,4 +1,6 @@
 <!-- TODO: Update with your values. -->
+<img src="https://avatars.githubusercontent.com/u/102882063?s=200&v=4"/>
+
 # Documentation Jnode with Docsify.js
 > Starter template for a Markdown-based docs site
 
