@@ -1,7 +1,7 @@
 ## jnode-revisited.github.io
-![image](https://user-images.githubusercontent.com/111701513/208315742-3beadf88-c239-4e65-a039-9b74e312b80b.png)
+![image](https://user-images.githubusercontent.com/111701513/208339847-1dfc9ef1-8e0f-4376-89e7-a57851a8fb75.png)
 
-## Demo
+## Demo?
 ![](https://im5.ezgif.com/tmp/ezgif-5-88856fb18d.gif)
 
 ## Filesystem
