@@ -14,9 +14,12 @@
             height: 100%;
         }
     </style>
+    <!-- plugins -->
     <script src="//unpkg.com/docsify-edit-on-github@1/index.js"></script>
     <script defer src="//unpkg.com/docsify@4/lib/docsify.min.js"></script>
     <script defer src="//unpkg.com/prismjs@1/components/prism-markdown.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
     <!----
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
     <script src=”//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js”></script>
@@ -29,16 +32,20 @@
 <body>
     <div id="app"></div>
     <script>
-        var repoUrl = "https://github.com/jnode/jnode-revisited.github.io"; //=> "https://github.com/username/docsify-js-template"; // TODO: Update.
+        var repoUrl = "https://github.com/jnode-revisited/jnode-revisited.github.io"; //=> "https://github.com/username/docsify-js-template"; // TODO: Update.
         var editPath = repoUrl + "/blob/master/docs/";
         var editMsg = "📝 Edit on GitHub";
         window.$docsify = {
             name: "Jnode", // TODO: Update.
             repo: repoUrl,
             auto2top: true,
-            coverpage: true,
-            loadSidebar: false,
-            subMaxLevel: 2,
+            coverpage: false, // true->false
+            loadSidebar: true, // false:default
+            alias: {
+              '/.*/_sidebar.md': '/_sidebar.md',
+            },
+            subMaxLevel: 3, //2->3
+            sidebarDisplayLevel: 1, // set sidebar display level or delete this line
             themeColor: "#3170a7", // TODO: Set your own color.
             plugins: [
                 EditOnGithubPlugin.create(editPath, null, editMsg)
@@ -46,15 +53,4 @@
         }
     </script>
 </body>
-<!----
- <body>
-  <div id="app"></div>
-  <script>
-    window.$docsify = {
-      name: '',
-      repo: ''
-    }
-  </script>
-</body>
---->
 </html>
