@@ -25,7 +25,7 @@
 - ``https://jnode-revisited.netlify.app/docs/# -> documentation jnode``
 
 ## License
-- the homepage(website) and folder `assets` was redesigned and inspired by the open source project: [alamehan, source-code](github/alamehan/alamehan.github.io)
+- the homepage and folder `assets` was redesigned and inspired by the open source project: [alamehan, source-code](github/alamehan/alamehan.github.io)
 - the theme this repository([docsify-js-template](https://github.com/MichaelCurrin/docsify-js-template)) is released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
 - the logo and content this repository have copyright license for community jnode and contributors
 - the documentation part is generated and maintained with docsify, docsify is released under [MIT](/LICENSE) and contributors.
