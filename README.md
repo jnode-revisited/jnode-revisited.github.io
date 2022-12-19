@@ -1,5 +1,4 @@
-# jnode-revisited-vercel
-jnode-revisited-vercel
+# jnode-revisited-github-io
 
 ## Quick start
 ```npm i docsify-cli -g```
