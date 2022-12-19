@@ -3,9 +3,7 @@
 ## Filesystem
 ```
 └─ docs/  - "docsify"
-│  └── assets/
-│  └── css/
-│  └── js/
+│  └── file-folder/
 |  └── index.html
 ```
 
