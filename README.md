@@ -15,7 +15,7 @@
 └─ app/  <--- folder to github-pages, netlify or vercel --->
 |  └── src/assets/ 
 |  └── src/css/ 
-|  └── src/ks/ 
+|  └── src/js/ 
 |  └─ docs/  <--- folder to docsify in netlify, github-pages or vercel --->
 │  |   └── file/
 |  |   └── index.html
