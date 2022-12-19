@@ -22,5 +22,5 @@
 
 ## License
 - the theme this repository([docsify-js-template](https://github.com/MichaelCurrin/docsify-js-template)) is released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
-- the logo and content this repository have copyright license for community
-- the documentation part is generated and maintained with docsify.
+- the logo and content this repository have copyright license for community jnode and contributors
+- the documentation part is generated and maintained with docsify, docsify is released under [MIT](/LICENSE) and contributors.
