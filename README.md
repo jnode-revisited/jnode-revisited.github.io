@@ -4,5 +4,8 @@ jnode-revisited-vercel
 ## Quick start
 ```npm i docsify-cli -g```
 
-## Initialize & preview your site
+## Initialize
+```cd docs```
+
+## Preview your site
 ```docsify serve```
