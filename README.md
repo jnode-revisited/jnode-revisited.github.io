@@ -1,5 +1,5 @@
 ## jnode-revisited.github.io
-![image](https://user-images.githubusercontent.com/111701513/208339847-1dfc9ef1-8e0f-4376-89e7-a57851a8fb75.png)
+![image](https://user-images.githubusercontent.com/111701513/208340236-d52e3a22-b01a-4caa-96c6-0269db1aeac1.png)
 
 ## Filesystem
 ```
