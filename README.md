@@ -12,18 +12,20 @@
 
 ## Filesystem
 ```markdown
-└─ root/  <--- folder to github-pages, netlify or vercel --->
-|  └── assets/ 
-|  └── css/ 
+└─ app/  <--- folder to github-pages, netlify or vercel --->
+|  └── src/assets/ 
+|  └── src/css/ 
+|  └── src/ks/ 
 |  └─ docs/  <--- folder to docsify in netlify, github-pages or vercel --->
 │  |   └── file/
 |  |   └── index.html
 ```
 
-## Demo
-- ``https://jnode-revisited.github.io -> homepage jnode``
-- ``https://jnode-revisited.github.io/docs/# -> documentation jnode``
+## Demo?
+- ``https://jnode-revisited.netlify.app/ -> homepage jnode``
+- ``https://jnode-revisited.netlify.app/docs/# -> documentation jnode``
 
+jnode-revisited.github.io
 ## License
 - the homepage and folder `assets` was redesigned and inspired by the open source project: [alamehan, source-code](github/alamehan/alamehan.github.io)
 - the theme this repository([docsify-js-template](https://github.com/MichaelCurrin/docsify-js-template)) is released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
