@@ -16,7 +16,7 @@
 |  └── assets/ 
 |  └── css/ 
 |  └─ docs/  <--- folder to docsify in netlify, github-pages or vercel --->
-│  |   └── file-folder/
+│  |   └── file/
 |  |   └── index.html
 ```
 
