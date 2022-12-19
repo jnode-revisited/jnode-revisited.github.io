@@ -1,0 +1,386 @@
+/* --------------------------------- CATATAN -------------------------------- */
+
+/* 
+   Typography :
+
+   h1 = header
+   h2 = sub header
+   h3 = button
+   h4 = paragraph
+   h5 = section title (at recet works, etc)
+   h6 = recent works detail
+   a  = section body (at recet works, etc)
+
+   All responsive modes are tested on : http://responsivetesttool.com/
+*/
+
+/* ------------- PRE-LOADER SCREEN (WAIT TILL IMAGE HAS LOADED) ------------- */
+
+/* Empty - Not Working */
+
+/* ------------------------------- MARGIN TOP ------------------------------- */
+
+.martop-8 {
+  margin-top: 8px;
+}
+
+.martop-16 {
+  margin-top: 16px;
+}
+
+.martop-24 {
+  margin-top: 24px;
+}
+
+.martop-32 {
+  margin-top: 32px;
+}
+
+.martop-40 {
+  margin-top: 40px;
+}
+
+.martop-48 {
+  margin-top: 48px;
+}
+
+.martop-56 {
+  margin-top: 56px;
+}
+
+.martop-64 {
+  margin-top: 64px;
+}
+
+.martop-72 {
+  margin-top: 72px;
+}
+
+.martop-80 {
+  margin-top: 80px;
+}
+
+/* Special Margin */
+
+.martop-120 {
+  margin-top: 180px;
+}
+
+/* ------------------------------ MARGIN BOTTOM ----------------------------- */
+
+.marbot-8 {
+  margin-bottom: 8px;
+}
+
+.marbot-16 {
+  margin-bottom: 16px;
+}
+
+.marbot-24 {
+  margin-bottom: 24px;
+}
+
+.marbot-32 {
+  margin-bottom: 32px;
+}
+
+.marbot-40 {
+  margin-bottom: 40px;
+}
+
+.marbot-48 {
+  margin-bottom: 48px;
+}
+
+.marbot-56 {
+  margin-bottom: 56px;
+}
+
+.marbot-64 {
+  margin-bottom: 64px;
+}
+
+.marbot-72 {
+  margin-bottom: 72px;
+}
+
+.marbot-80 {
+  margin-bottom: 80px;
+}
+
+/* Special Margin */
+
+.marbot-90 {
+  margin-bottom: 90px;
+}
+
+.marbot-100 {
+  margin-bottom: 100px;
+}
+
+.marbot-107 {
+  margin-bottom: 107px;
+}
+
+/* ------------------------------- ABOUT TEXT ------------------------------- */
+
+html {
+  /* Smooth Scroll */
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: white; /*#101117 !important;*/
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 56px;
+  color: black; /* #F7F9F9; */
+}
+
+h2 {
+  font-style: italic;
+  font-weight: 400;
+  font-size: 32px;
+  color: #2A2D2E;
+  /* color: #D0D3D4; */
+}
+
+/* h3 di style-specific.css */
+
+h4 {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 26px;
+  color: black; /*#D0D3D4;*/
+
+  line-height: 1.3;
+}
+
+h5 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  color: #D0D3D4;
+}
+
+h6 {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  font-weight: 600;
+  color: black; /*#D0D3D4;*/
+}
+
+a {
+  position: relative;
+  z-index: 100;
+
+  font-style: normal;
+  font-weight: 300;
+  font-size: 26px;
+  color: #D0D3D4;
+
+  line-height: 1.2;
+}
+
+a:hover,
+a:active {
+  font-weight: 400;
+  color: #4B92E3;
+  text-decoration: none;
+}
+
+hr {
+  background-color: #B83746;
+  border-radius: 12px;
+  height: 1px;
+}
+
+/* -------------------------------- DOT COLOR ------------------------------- */
+
+.dot-ungu {
+  color: #7348D5;
+}
+
+.dot-biru {
+  color: #4B92E3;
+}
+
+.dot-sea {
+  color: #62B8B8;
+}
+
+.dot-merah {
+  color: #B83746;
+}
+
+.dot-kuning {
+  color: #C7AF28;
+}
+
+.dot-hijau {
+  color: #45A36C;
+}
+
+.dot-oren {
+  color: rebeccapurple;
+  /*color: #C76028;*/
+}
+
+
+/* ------------------------------- GENERAL CSS ------------------------------ */
+
+.container {
+  max-width: 960px;
+  /* margin: auto; */
+  /* padding: 0 30px; */
+}
+
+.unone {
+  user-select: none;
+}
+
+.emoji {
+  font-size: 30px;
+  margin-left: -8px;
+  margin-right: 14px;
+  user-select: none;
+}
+
+.garis-bawah {
+  border-bottom: 3px solid #0a223f;
+}
+
+/* ------------------ CHANGE FOCUS COLOR OUTLINE BOOTSTRAP ------------------ */
+
+select:focus,
+textarea:focus,
+textarea.form-control:focus,
+input.form-control:focus,
+input[type=text]:focus,
+input[type=password]:focus,
+input[type=email]:focus,
+input[type=number]:focus,
+[type=text].form-control:focus,
+[type=password].form-control:focus,
+[type=email].form-control:focus,
+[type=tel].form-control:focus,
+[contenteditable].form-control:focus {
+  box-shadow: 0px 6px #45A36C !important;
+}
+
+select:hover,
+select:focus {
+  background-color: #101117 !important;
+  border-radius: 12px;
+}
+
+option:checked {
+  color: #45A36C !important;
+}
+
+/* -------------------------------- SLICK JS -------------------------------- */
+
+/* Override Slick js : Enable select texr */
+
+.slick-slider {
+  user-select: text;
+}
+
+.slick-list.draggable {
+  user-select: text;
+}
+
+/* Override Slick js : Styling center position */
+
+.slick-slide {
+  opacity: 1;
+}
+
+.slick-center h2 {
+  opacity: 1;
+  color: black;/*#D0D3D4 !important;*/
+}
+
+/* ------------------------------- SWEET ALERT ------------------------------ */
+
+.swal2-modal {
+  border-radius: 12px !important;
+}
+
+.swal2-title {
+  font-family: 'Playfair Display', serif !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 32px !important;
+  color: #2A2D2E !important;
+
+  margin-top: 16px !important;
+}
+
+.swal2-confirm {
+  font-weight: 400 !important;
+  font-size: 26px !important;
+
+  border: 2px solid !important;
+  border-radius: 100px !important;
+  color: #4B92E3 !important;
+  background-color: #F7F9F9 !important;
+
+  padding: 18px 48px 18px 48px !important;
+}
+
+.swal2-content {
+  font-weight: 300 !important;
+  font-size: 26px !important;
+  color: #535758 !important;
+
+  margin: 24px 0px !important;
+}
+
+/* ------------------------------- RESPONSIVE ------------------------------- */
+
+/* Sebenarnya cara ini tidak baik, seolah seperti dipaksa zoom */
+/* Catatan : setiap size @media dibawah ini dapat digunakan sebagai
+  acuan responsiveness dalam sebuah proyek website */
+/* Tested on : http://responsivetesttool.com/ */
+
+/* Mobile Breakpoint 991px ➜ 991x568 px */
+@media (max-width: 568px) {
+  body {
+    zoom: 100%;
+  }
+}
+
+/* Mobile Breakpoint 480px ➜ 480x896 px */
+@media (max-width: 480px) {
+  body {
+    zoom: 90%;
+  }
+}
+
+/* Mobile Breakpoint 414px ➜ 414x896 px */
+@media (max-width: 414px) {
+  body {
+    zoom: 80%;
+  }
+}
+
+/* Mobile Breakpoint iPhone 6/6s/7 ➜ 375x667 px */
+@media (max-width: 375px) {
+  body {
+    zoom: 70%;
+  }
+}
+
+/* Mobile Breakpoint 768px ➜ 768x360 px */
+@media (max-width: 360px) {
+  body {
+    zoom: 67%;
+  }
+}
