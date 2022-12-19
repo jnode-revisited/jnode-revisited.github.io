@@ -21,8 +21,8 @@
 ```
 
 ## Demo
-- ``https://jnode-revisited.netlify.app -> homepage jnode``
-- ``https://jnode-revisited.netlify.app/docs/# -> documentation jnode``
+- ``https://jnode-revisited.github.io -> homepage jnode``
+- ``https://jnode-revisited.github.io/docs/# -> documentation jnode``
 
 ## License
 - the homepage and folder `assets` was redesigned and inspired by the open source project: [alamehan, source-code](github/alamehan/alamehan.github.io)
