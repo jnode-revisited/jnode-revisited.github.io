@@ -41,4 +41,4 @@ Please, see this: [homepage](https://jnode-revisited.netlify.app/) and [document
 - the theme this repository([docsify-js-template](https://github.com/MichaelCurrin/docsify-js-template)) is released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
 - the logo and content this repository have copyright license for community Jnode.org and contributors
 - the technology HTML, CSS and JS is licensed and specifying in W3C, WICG, Ecma International's TC39 
-- the documentation part is generated and maintained with docsify, docsify is released under [MIT](/LICENSE) and contributors.
+- the documentation is generated and maintained with docsify, docsify is released under [MIT](/LICENSE) and contributors.
