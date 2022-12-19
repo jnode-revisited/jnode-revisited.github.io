@@ -1,6 +1,11 @@
 # jnode-revisited-github-io
 ![image](https://user-images.githubusercontent.com/111701513/208514277-a1a8a375-1d76-47cd-8ee9-f2f179329155.png)
 
+## Technologies and created with
+Jnode.org, Github-Pages, docsify-js-template, HTML, CSS, JS, Theme Alamehan, GitHub Discussions, Docsify ^^
+
+*if add new host: Vercel, Netlify too*
+
 ## Quick start
 ```npm i docsify-cli -g```
 
@@ -29,5 +34,5 @@ Please, see this: [homepage](https://jnode-revisited.netlify.app/) and [document
 ## License
 - the homepage and folder `assets` was redesigned and inspired by the open source project: [alamehan, source-code](github/alamehan/alamehan.github.io)
 - the theme this repository([docsify-js-template](https://github.com/MichaelCurrin/docsify-js-template)) is released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
-- the logo and content this repository have copyright license for community jnode and contributors
+- the logo and content this repository have copyright license for community Jnode.org and contributors
 - the documentation part is generated and maintained with docsify, docsify is released under [MIT](/LICENSE) and contributors.
