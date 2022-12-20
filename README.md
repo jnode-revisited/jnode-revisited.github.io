@@ -22,11 +22,11 @@ Jnode.org, Github-Pages, docsify-js-template, HTML, CSS, JS, Theme Alamehan, Git
 
 ## Filesystem
 ```markdown
-└─ app/  <--- folder to github-pages, netlify or vercel --->
+└─ app/  <--- folder (homepage) to github-pages, netlify and/or vercel --->
 |  └── src/assets/ 
 |  └── src/css/ 
 |  └── src/js/ 
-|  └─ docs/  <--- folder to docsify in netlify, github-pages or vercel --->
+|  └─ docs/  <--- folder (documentation) to netlify, github-pages and/or vercel --->
 │  |   └── file/
 |  |   └── index.html
 ```
