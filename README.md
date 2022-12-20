@@ -6,7 +6,7 @@
 #### documentation
 ![image](https://user-images.githubusercontent.com/111701513/208537633-6f8992b7-dd64-49de-bdf3-23d5e1bd6a60.png)
 
-## Technologies and created with
+## Technologies
 Jnode.org, Github-Pages, docsify-js-template, HTML, CSS, JS, Theme Alamehan, GitHub Discussions, Docsify ^^
 
 *if add new host: Vercel, Netlify too*
