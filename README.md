@@ -9,7 +9,7 @@
 ## Technologies
 Jnode.org, Github-Pages, docsify-js-template, HTML, CSS, JS, Theme Alamehan, GitHub Discussions, Docsify ^^
 
-*if add new host: Vercel, Netlify too*
+*if add new host: Vercel, SourceForge or Netlify too*
 
 ## Quick start
 ```npm i docsify-cli -g```
