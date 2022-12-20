@@ -26,6 +26,7 @@ Jnode.org, Github-Pages, docsify-js-template, HTML, CSS, JS, Theme Alamehan, Git
 |  └── src/assets/ 
 |  └── src/css/ 
 |  └── src/js/ 
+|  └── index.html
 |  └─ docs/  <--- folder (documentation) to netlify, github-pages and/or vercel --->
 │  |   └── file/
 |  |   └── index.html
